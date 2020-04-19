@@ -1,0 +1,127 @@
+
+ #donate a:hover{
+    background-color: #fe7fe3;
+     color:black;
+     border-color: black;
+}
+#donate a
+{
+    text-decoration: none;
+}
+.head
+{
+    border: 0.5px  white;
+   border-style: outset;
+    background-color:#0066A2;
+   
+    
+   
+    
+    
+}
+p
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font:bold;
+    font-size: 19px;
+    color:black;
+}
+.head a
+{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 19px;
+    text-align: center;
+    color:white;
+    font-weight: 200;
+    
+}
+ div a:hover{
+    background-color: black;
+     border: 1px solid;
+     border-color:#fe7fe3 ;
+     color: #fe7fe3;
+}
+div
+{
+    background-attachment: fixed;
+    
+}
+#text
+{
+   font-family:"Trebuchet MS", Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    color:black;
+    text-align: center
+
+    
+}
+#cart
+{
+   font-family:"Trebuchet MS", Arial, Helvetica, sans-serif ;
+    font-size: 45px; 
+    border: 1px solid black;
+    color:white;
+    background-color: black;
+    padding:10px 5px;
+    border-left: 6px solid;
+    border-left-color: #0066A2;
+    text-align: center;
+    
+}
+#ta
+{
+    border-radius: 4px;
+    border:2px;
+    border-color: black;
+    background-color: #bbb7b8;
+    font:bold 15px arial, sans-serif;
+    color:black;
+}
+
+table
+{
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+td
+{
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif ;
+     color:black;
+    text-align: center
+        font-size:19px;
+    text-align: center;
+}
+.form-submit-button {
+background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 50px;
+width: 100px;
+font: bold 15px arial, sans-serif;
+text-shadow:none;
+}
+#donate a
+{
+    background-color: #0066A2;
+    color:white;
+   border-style: outset;
+border-color: #0066A2;
+     padding: 14px 55px ;
+    text-align:center;
+   font: bold 15px arial, sans-serif;
+    text-shadow:none;  
+}
+.footer
+{
+  background-color: #0066A2;
+   padding: 4px 0px;
+    text-shadow:none; 
+    text-align: center;
+    
+}
+.footer p
+{
+    color: white;
+}
