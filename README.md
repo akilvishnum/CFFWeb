@@ -1,5 +1,5 @@
 # Cancer Foundation Site
-### Basic Socially responsive Web Application - Cancer Foundation Site 
+### Basic Socially responsible Web Application - Cancer Foundation Site 
 
 # Technologies Used :100::space_invader:
 1. **Frontend -** HTML & CSS
@@ -8,7 +8,7 @@
 
 # Description:
 First Project during my Second Semester. 
-Topic given was **Socially Responsive site.** Developed a form based web application to help people fight cancer.
+Topic given was **Socially Responsible site.** Developed a form based web application to help people fight cancer.
 
 
 ## Other Sub-domains of the site
